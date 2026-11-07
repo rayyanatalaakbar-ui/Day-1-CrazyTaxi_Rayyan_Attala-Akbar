@@ -5,22 +5,22 @@
 | | |
 |---|---|
 | **Nama Lengkap** | Rayyan Attala Akbar |
-| **Kelompok** | CrazyTaxi |
+| **Kelompok** | CrazyTaxi_07 |
 | **GitHub** | [@rayyanatalaakbar-ui](https://github.com/rayyanatalaakbar-ui) |
 
 ---
 
-## 📖 Deskripsi Repository
+## Deskripsi Repository
 
 Repository ini berisi dokumentasi kegiatan **Workshop Day 1: "From AI to GitHub – Building with AI, Managing Change with GitHub"** yang dibawakan oleh Nugi Farhan (Senior Product Designer). Isinya mencakup rangkuman materi, poin penting yang saya pelajari, serta pendapat pribadi saya tentang Day 1 Proyek Workshop.
 
-## 🎯 Tujuan Repository
+## Tujuan Repository
 
 - Memenuhi tugas dokumentasi Day 1 workshop.
 - Menjadi catatan belajar pribadi tentang prompt engineering, Git, dan GitHub.
 - Menjadi latihan langsung membuat repository, melakukan commit, dan push ke GitHub.
 
-## 🗂️ Kegiatan Workshop yang Didokumentasikan
+##  Kegiatan Workshop yang Didokumentasikan
 
 Kegiatan yang didokumentasikan adalah **Workshop Day 1**, dengan dua topik utama:
 
@@ -31,7 +31,7 @@ Proyek yang dikerjakan pada sesi ini adalah **Student Task Planner**, sebuah apl
 
 ---
 
-## 📝 Rangkuman Materi Workshop
+##  Rangkuman Materi Workshop
 
 ### 1. Tujuan Pembelajaran Hari Ini
 - Menjelaskan bagaimana prompt AI yang lebih spesifik menghasilkan hasil yang lebih baik.
@@ -116,7 +116,7 @@ Public key (`id_ed25519.pub`) ditambahkan di **GitHub → Settings → SSH and G
 
 ---
 
-## 💡 Poin Penting & Pengetahuan Baru
+##  Poin Penting & Pengetahuan Baru
 
 1. **Kualitas output AI bergantung pada kualitas prompt.** Struktur Role, Task, Context, dan Format membantu prompt jadi jelas dan terarah.
 2. **Constraint dan instruksi verifikasi itu penting**, misalnya membatasi teknologi yang dipakai dan meminta AI tidak mengklaim berhasil sebelum diverifikasi.
@@ -128,7 +128,7 @@ Public key (`id_ed25519.pub`) ditambahkan di **GitHub → Settings → SSH and G
 
 ---
 
-## 💬 Pendapat Pribadi tentang Day 1 Proyek Workshop
+## Pendapat Pribadi tentang Day 1 Proyek Workshop
 
 Menurut saya, Day 1 Proyek Workshop sangat bermanfaat karena materinya langsung dipraktikkan. Saya jadi paham bahwa AI bukan sekadar alat "tanya-jawab", tetapi hasilnya sangat dipengaruhi cara kita menulis prompt. Membuat Student Task Planner dengan prompt yang terstruktur memperlihatkan perbedaan nyata dibanding prompt yang singkat.
 
